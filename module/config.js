@@ -24,7 +24,8 @@ DND5E.abilities = {
   "con": "DND5E.AbilityCon",
   "int": "DND5E.AbilityInt",
   "wis": "DND5E.AbilityWis",
-  "cha": "DND5E.AbilityCha"
+  "cha": "DND5E.AbilityCha",
+  "luc": "DND5E.AbilityLuc"
 };
 
 DND5E.abilityAbbreviations = {
@@ -33,7 +34,8 @@ DND5E.abilityAbbreviations = {
   "con": "DND5E.AbilityConAbbr",
   "int": "DND5E.AbilityIntAbbr",
   "wis": "DND5E.AbilityWisAbbr",
-  "cha": "DND5E.AbilityChaAbbr"
+  "cha": "DND5E.AbilityChaAbbr",
+  "luc": "DND5E.AbilityLucAbbr"
 };
 
 /* -------------------------------------------- */
