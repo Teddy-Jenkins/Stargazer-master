@@ -93,7 +93,7 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "0.7.6",
   "compatibleCoreVersion": "0.7.9",
-  "url": "https://gitlab.com/foundrynet/dnd5e",
-  "manifest": "https://raw.githubusercontent.com/Teddy-Jenkins/Stargazer/main/system.json",
-  "download": "https://raw.githubusercontent.com/Teddy-Jenkins/Stargazer/main/system.json"
+  "url": "https://github.com/Teddy-Jenkins/Stargazer-master",
+  "manifest": "https://raw.githubusercontent.com/Teddy-Jenkins/Stargazer-master/main/system.json",
+  "download": "https://raw.githubusercontent.com/Teddy-Jenkins/Stargazer-master.zip"
 }
